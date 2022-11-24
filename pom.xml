@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                hu.petrik.berkydaniel_javafxrestclientdolgozat/hu.petrik.berkydaniel_javafxrestclientdolgozat.HelloApplication
+                                hu.petrik.berkydaniel_javafxrestclientdolgozat/hu.petrik.berkydaniel_javafxrestclientdolgozat.App
                             </mainClass>
                         </configuration>
                     </execution>

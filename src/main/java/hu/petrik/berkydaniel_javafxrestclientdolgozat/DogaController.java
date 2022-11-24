@@ -3,7 +3,7 @@ package hu.petrik.berkydaniel_javafxrestclientdolgozat;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class DogaController {
     @FXML
     private Label welcomeText;
 
